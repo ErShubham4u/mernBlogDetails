@@ -70,7 +70,7 @@ Email: [connect2ershubham@gmail.com](mailto:connect2ershubham@gmail.com)
 
 ## 📄 Related Documentation
 
-- [MongoDB Notes PDF](https://github.com/user-attachments/files/20042358/mongoDB.pdf)
+- [mongoDB.pdf](https://github.com/user-attachments/files/20042555/mongoDB.pdf)
 
 ---
 
